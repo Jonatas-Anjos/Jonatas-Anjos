@@ -1,5 +1,5 @@
 <h2>
-Bem vindo ao meu Github, sou o Jonatas aqui tem alguns dos meus projetos!
+👨‍💻Bem vindo ao meu Github, sou o Jonatas aqui tem alguns dos meus projetos!👨‍💻
 <h2/>
 
 <div>
